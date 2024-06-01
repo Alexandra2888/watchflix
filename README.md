@@ -7,7 +7,8 @@ Netflix clone created using `Nextjs`. Other tech stack used:
 - MongoDB
 
 ### ScreenShot 
-![image](https://github.com/Alexandra2888/watchflix/assets/76844097/52283651-4868-4cab-ab57-278753d52fdb)
+![image](https://github.com/Alexandra2888/watchflix/assets/76844097/faa59a03-7ee5-49de-9055-34641b9284da)
+
 
 
 
