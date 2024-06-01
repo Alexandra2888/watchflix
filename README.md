@@ -9,11 +9,8 @@ Netflix clone created using `Nextjs`. Other tech stack used:
 ### Website: [Link]()
 
 ### ScreenShot 
-![image]()
+![image](https://github.com/Alexandra2888/watchflix/assets/76844097/52283651-4868-4cab-ab57-278753d52fdb)
 
-
-
----
 
 
 ## Getting Started
